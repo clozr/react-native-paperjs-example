@@ -7,6 +7,7 @@ This provides an example of how to use paperjs to optimize SVG Path
 ## Getting started
 
 `$ yarn install`
+
 `$ react-native link`
 
 ## How to run on IOS
